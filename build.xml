@@ -6,7 +6,7 @@
    <target name="info">
       
 <echo>Hello World - Welcome to Apache Ant!</echo>
-    
+<echo> get a job </echo>    
   <echo>yeyyy learn something</echo>
 
    </target>
