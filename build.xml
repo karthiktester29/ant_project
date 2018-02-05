@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
    
-<project name="Hey sup man,Hello World Project" default="info">
+<project name="Hey sup man,Hello World Project,sjn" default="info">
 
 
    <target name="info">
