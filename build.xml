@@ -4,7 +4,7 @@
 
 
    <target name="info">
-<echo> I am trying to integrate  git with jenkins </echo>
+<echo>HEY I am trying to integrate  git with jenkins </echo>
 <echo> just testing </echo>    
   <echo>yeyyy learn something</echo>
 
