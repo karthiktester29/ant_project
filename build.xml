@@ -4,11 +4,8 @@
 
 
    <target name="info">
-<echo>TThis is kar, just testing </echo>      
-<echo>Hello World - Welcome to Apache Ant!</echo>
-<echo> Hey Do i appear here ? </echo>
 <echo> I am trying to integrate  git with jenkins </echo>
-<echo> get a job </echo>    
+<echo> just testing </echo>    
   <echo>yeyyy learn something</echo>
 
    </target>
